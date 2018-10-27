@@ -1,2 +1,1 @@
-# devops-cicd-steps
-Home Paths
+# steps
